@@ -1,6 +1,6 @@
 # surfs_up
 
-#Project Overview
+# Project Overview
 
 Analyze the temperature trends in Oahu, HI and evaluate the year-round sustainability of a surf and ice cream shop business.
 
@@ -25,4 +25,9 @@ Below are the statiscal results for both June and December Temperatures in Oahu,
 
 The temperature in December is close enough to the temperature of June that it will be suitable to run a surf shop and ice cream shop during the month of December in Oahu, HI.
 
+Some recommendations for further analysis maybe: 
+- To review the success of similar surf shop & ice cream shops in the area during these same months.
+- To show a map of where other competitor surf shop's are located, the hours of operation, their weeks of operation, years of business, and relevant location to the ocean.
+
+I believe further analysis on some of the above recommendations will better position the surf shop for the investors reassurance of future success here.
 
